@@ -1,0 +1,1 @@
+MY_TRAINER_ID = "66136"
